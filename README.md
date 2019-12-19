@@ -1,0 +1,2 @@
+# terraform_gke_private_cluster
+GKEで、terraformを使用してプライベートクラスタを構築する場合の例
